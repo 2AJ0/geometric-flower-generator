@@ -1,6 +1,6 @@
 # Geometric Flower Generator
 
-A beautiful, interactive desktop application that generates mesmerizing, spirograph-like geometric flowers and pursuit curves using Python's `turtle` and `tkinter` libraries.
+A beautiful, interactive desktop application that generates mesmerizing, spirograph-like geometric flowers and pursuit curves using Python's `turtle` and `tkinter` libraries.\n
 *Created by AntiGravity, Idea by AthulJenson*
 
 ## Features
